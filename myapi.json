@@ -1,0 +1,111 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "name": "Captain America",
+      "email": "steverogers@gmail.com",
+      "phone": "8800000088"
+    },
+    {
+      "id": 2,
+      "name": "Iron Man",
+      "email": "tonystark@gmail.com",
+      "phone": "7800000078"
+    },
+    {
+      "id": 3,
+      "name": "Thor",
+      "email": "thorodison@gmail.com",
+      "phone": "8880000888"
+    },
+    {
+      "name": "Black Widow",
+      "email": "natasharomanoff@gmail.com",
+      "phone": "870000088",
+      "id": 4
+    },
+    {
+      "name": "Hawkaye",
+      "email": "clintbarton@gmail.com",
+      "phone": "9880000889",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "Hulk",
+      "email": "brucebanner@gmail.com",
+      "phone": "6880000880"
+    },
+    {
+      "name": "Captain Marvel",
+      "email": "caroldanvers@gmail.com",
+      "phone": "7780000887",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "name": "Scarlet Witch",
+      "email": "wandamaximoff@gmail.com",
+      "phone": "88000088"
+    },
+    {
+      "id": 9,
+      "name": "Spider Man",
+      "email": "peterparker@gmail.com",
+      "phone": "7880000888"
+    },
+    {
+      "id": 10,
+      "name": "Doctor Strange",
+      "email": "stephenstrange@gmail.com",
+      "phone": "8800008899"
+    },
+    {
+      "name": "Ant man",
+      "email": "ScottLang@gmail.com",
+      "phone": "9000003338",
+      "id": 11
+    },
+    {
+      "name": "Kamala Khan",
+      "email": "kamalakhan22@gmail.com",
+      "phone": "65478962",
+      "id": 12
+    },
+    {
+      "name": "Shangchi",
+      "email": "shangchi22@gmail.com",
+      "phone": "55464866566",
+      "id": 13
+    }
+  ],
+  "bookings": [
+    {
+      "s.no": 1,
+      "Databooking": "14-4-2008",
+      "Movie": "Iron Man"
+    },
+    {
+      "s.no": 2,
+      "Databooking": "19-7-2011",
+      "Movie": "The First Avenger"
+    },
+    {
+      "s.no": 3,
+      "Databooking": "15-1-2021",
+      "Movie": "Wanda Vision"
+    }
+  ],
+  "Admins": [
+    {
+      "s.no": 1,
+      "name": "Steve Rogers",
+      "mobile": "6699887700"
+    },
+    {
+      "s.no": 2,
+      "name": "Carol Danvers",
+      "mobile": "9699887700"
+    }
+  ]
+}
